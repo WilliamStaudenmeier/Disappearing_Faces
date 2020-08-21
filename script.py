@@ -54,7 +54,7 @@ while True:
 
 
     original = frame.copy()
-    rectangle = frame.copy()
+    train = frame.copy()
     
     for (x, y, w, h) in boxes:
 
